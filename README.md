@@ -1,5 +1,6 @@
 Awesome Source CV Extended
-<!-- [![Example](https://img.shields.io/badge/Exemple-pdf-blue.svg)](https://github.com/innerTide/awesome-neue-latex-cv-extended/raw/master/CV.pdf) -->
+<!--
+[![Example](https://img.shields.io/badge/Exemple-pdf-blue.svg)](https://github.com/innerTide/awesome-neue-latex-cv-extended/raw/master/CV.pdf) -->
 =================
 
 # About
