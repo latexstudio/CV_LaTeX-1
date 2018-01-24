@@ -30,9 +30,7 @@
 *.vrb
 *.xdy
 *.tdo
-cv.fls
-cv.texnicle
-cv.texnicle.backup
+*.fls
 .DS_Store
 latex-classicalcv.sublime-project
 latex-classicalcv.sublime-workspace
